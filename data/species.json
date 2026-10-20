@@ -1,0 +1,1210 @@
+[
+  {
+    "id": 1,
+    "name": "bulbasaur",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/1/"
+  },
+  {
+    "id": 2,
+    "name": "ivysaur",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/1/"
+  },
+  {
+    "id": 3,
+    "name": "venusaur",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/1/"
+  },
+  {
+    "id": 4,
+    "name": "charmander",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/2/"
+  },
+  {
+    "id": 5,
+    "name": "charmeleon",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/2/"
+  },
+  {
+    "id": 6,
+    "name": "charizard",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/2/"
+  },
+  {
+    "id": 7,
+    "name": "squirtle",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/3/"
+  },
+  {
+    "id": 8,
+    "name": "wartortle",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/3/"
+  },
+  {
+    "id": 9,
+    "name": "blastoise",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/3/"
+  },
+  {
+    "id": 10,
+    "name": "caterpie",
+    "captureRate": 255,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/4/"
+  },
+  {
+    "id": 11,
+    "name": "metapod",
+    "captureRate": 120,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/4/"
+  },
+  {
+    "id": 12,
+    "name": "butterfree",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/4/"
+  },
+  {
+    "id": 13,
+    "name": "weedle",
+    "captureRate": 255,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/5/"
+  },
+  {
+    "id": 14,
+    "name": "kakuna",
+    "captureRate": 120,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/5/"
+  },
+  {
+    "id": 15,
+    "name": "beedrill",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/5/"
+  },
+  {
+    "id": 16,
+    "name": "pidgey",
+    "captureRate": 255,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/6/"
+  },
+  {
+    "id": 17,
+    "name": "pidgeotto",
+    "captureRate": 120,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/6/"
+  },
+  {
+    "id": 18,
+    "name": "pidgeot",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/6/"
+  },
+  {
+    "id": 19,
+    "name": "rattata",
+    "captureRate": 255,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/7/"
+  },
+  {
+    "id": 20,
+    "name": "raticate",
+    "captureRate": 127,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/7/"
+  },
+  {
+    "id": 21,
+    "name": "spearow",
+    "captureRate": 255,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/8/"
+  },
+  {
+    "id": 22,
+    "name": "fearow",
+    "captureRate": 90,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/8/"
+  },
+  {
+    "id": 23,
+    "name": "ekans",
+    "captureRate": 255,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/9/"
+  },
+  {
+    "id": 24,
+    "name": "arbok",
+    "captureRate": 90,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/9/"
+  },
+  {
+    "id": 25,
+    "name": "pikachu",
+    "captureRate": 190,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/10/"
+  },
+  {
+    "id": 26,
+    "name": "raichu",
+    "captureRate": 75,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/10/"
+  },
+  {
+    "id": 27,
+    "name": "sandshrew",
+    "captureRate": 255,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/11/"
+  },
+  {
+    "id": 28,
+    "name": "sandslash",
+    "captureRate": 90,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/11/"
+  },
+  {
+    "id": 29,
+    "name": "nidoran-f",
+    "captureRate": 235,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/12/"
+  },
+  {
+    "id": 30,
+    "name": "nidorina",
+    "captureRate": 120,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/12/"
+  },
+  {
+    "id": 31,
+    "name": "nidoqueen",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/12/"
+  },
+  {
+    "id": 32,
+    "name": "nidoran-m",
+    "captureRate": 235,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/13/"
+  },
+  {
+    "id": 33,
+    "name": "nidorino",
+    "captureRate": 120,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/13/"
+  },
+  {
+    "id": 34,
+    "name": "nidoking",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/13/"
+  },
+  {
+    "id": 35,
+    "name": "clefairy",
+    "captureRate": 150,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/14/"
+  },
+  {
+    "id": 36,
+    "name": "clefable",
+    "captureRate": 25,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/14/"
+  },
+  {
+    "id": 37,
+    "name": "vulpix",
+    "captureRate": 190,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/15/"
+  },
+  {
+    "id": 38,
+    "name": "ninetales",
+    "captureRate": 75,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/15/"
+  },
+  {
+    "id": 39,
+    "name": "jigglypuff",
+    "captureRate": 170,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/16/"
+  },
+  {
+    "id": 40,
+    "name": "wigglytuff",
+    "captureRate": 50,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/16/"
+  },
+  {
+    "id": 41,
+    "name": "zubat",
+    "captureRate": 255,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/17/"
+  },
+  {
+    "id": 42,
+    "name": "golbat",
+    "captureRate": 90,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/17/"
+  },
+  {
+    "id": 43,
+    "name": "oddish",
+    "captureRate": 255,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/18/"
+  },
+  {
+    "id": 44,
+    "name": "gloom",
+    "captureRate": 120,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/18/"
+  },
+  {
+    "id": 45,
+    "name": "vileplume",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/18/"
+  },
+  {
+    "id": 46,
+    "name": "paras",
+    "captureRate": 190,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/19/"
+  },
+  {
+    "id": 47,
+    "name": "parasect",
+    "captureRate": 75,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/19/"
+  },
+  {
+    "id": 48,
+    "name": "venonat",
+    "captureRate": 190,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/20/"
+  },
+  {
+    "id": 49,
+    "name": "venomoth",
+    "captureRate": 75,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/20/"
+  },
+  {
+    "id": 50,
+    "name": "diglett",
+    "captureRate": 255,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/21/"
+  },
+  {
+    "id": 51,
+    "name": "dugtrio",
+    "captureRate": 50,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/21/"
+  },
+  {
+    "id": 52,
+    "name": "meowth",
+    "captureRate": 255,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/22/"
+  },
+  {
+    "id": 53,
+    "name": "persian",
+    "captureRate": 90,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/22/"
+  },
+  {
+    "id": 54,
+    "name": "psyduck",
+    "captureRate": 190,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/23/"
+  },
+  {
+    "id": 55,
+    "name": "golduck",
+    "captureRate": 75,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/23/"
+  },
+  {
+    "id": 56,
+    "name": "mankey",
+    "captureRate": 190,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/24/"
+  },
+  {
+    "id": 57,
+    "name": "primeape",
+    "captureRate": 75,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/24/"
+  },
+  {
+    "id": 58,
+    "name": "growlithe",
+    "captureRate": 190,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/25/"
+  },
+  {
+    "id": 59,
+    "name": "arcanine",
+    "captureRate": 75,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/25/"
+  },
+  {
+    "id": 60,
+    "name": "poliwag",
+    "captureRate": 255,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/26/"
+  },
+  {
+    "id": 61,
+    "name": "poliwhirl",
+    "captureRate": 120,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/26/"
+  },
+  {
+    "id": 62,
+    "name": "poliwrath",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/26/"
+  },
+  {
+    "id": 63,
+    "name": "abra",
+    "captureRate": 200,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/27/"
+  },
+  {
+    "id": 64,
+    "name": "kadabra",
+    "captureRate": 100,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/27/"
+  },
+  {
+    "id": 65,
+    "name": "alakazam",
+    "captureRate": 50,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/27/"
+  },
+  {
+    "id": 66,
+    "name": "machop",
+    "captureRate": 180,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/28/"
+  },
+  {
+    "id": 67,
+    "name": "machoke",
+    "captureRate": 90,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/28/"
+  },
+  {
+    "id": 68,
+    "name": "machamp",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/28/"
+  },
+  {
+    "id": 69,
+    "name": "bellsprout",
+    "captureRate": 255,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/29/"
+  },
+  {
+    "id": 70,
+    "name": "weepinbell",
+    "captureRate": 120,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/29/"
+  },
+  {
+    "id": 71,
+    "name": "victreebel",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/29/"
+  },
+  {
+    "id": 72,
+    "name": "tentacool",
+    "captureRate": 190,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/30/"
+  },
+  {
+    "id": 73,
+    "name": "tentacruel",
+    "captureRate": 60,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/30/"
+  },
+  {
+    "id": 74,
+    "name": "geodude",
+    "captureRate": 255,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/31/"
+  },
+  {
+    "id": 75,
+    "name": "graveler",
+    "captureRate": 120,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/31/"
+  },
+  {
+    "id": 76,
+    "name": "golem",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/31/"
+  },
+  {
+    "id": 77,
+    "name": "ponyta",
+    "captureRate": 190,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/32/"
+  },
+  {
+    "id": 78,
+    "name": "rapidash",
+    "captureRate": 60,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/32/"
+  },
+  {
+    "id": 79,
+    "name": "slowpoke",
+    "captureRate": 190,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/33/"
+  },
+  {
+    "id": 80,
+    "name": "slowbro",
+    "captureRate": 75,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/33/"
+  },
+  {
+    "id": 81,
+    "name": "magnemite",
+    "captureRate": 190,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/34/"
+  },
+  {
+    "id": 82,
+    "name": "magneton",
+    "captureRate": 60,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/34/"
+  },
+  {
+    "id": 83,
+    "name": "farfetchd",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/35/"
+  },
+  {
+    "id": 84,
+    "name": "doduo",
+    "captureRate": 190,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/36/"
+  },
+  {
+    "id": 85,
+    "name": "dodrio",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/36/"
+  },
+  {
+    "id": 86,
+    "name": "seel",
+    "captureRate": 190,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/37/"
+  },
+  {
+    "id": 87,
+    "name": "dewgong",
+    "captureRate": 75,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/37/"
+  },
+  {
+    "id": 88,
+    "name": "grimer",
+    "captureRate": 190,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/38/"
+  },
+  {
+    "id": 89,
+    "name": "muk",
+    "captureRate": 75,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/38/"
+  },
+  {
+    "id": 90,
+    "name": "shellder",
+    "captureRate": 190,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/39/"
+  },
+  {
+    "id": 91,
+    "name": "cloyster",
+    "captureRate": 60,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/39/"
+  },
+  {
+    "id": 92,
+    "name": "gastly",
+    "captureRate": 190,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/40/"
+  },
+  {
+    "id": 93,
+    "name": "haunter",
+    "captureRate": 90,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/40/"
+  },
+  {
+    "id": 94,
+    "name": "gengar",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/40/"
+  },
+  {
+    "id": 95,
+    "name": "onix",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/41/"
+  },
+  {
+    "id": 96,
+    "name": "drowzee",
+    "captureRate": 190,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/42/"
+  },
+  {
+    "id": 97,
+    "name": "hypno",
+    "captureRate": 75,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/42/"
+  },
+  {
+    "id": 98,
+    "name": "krabby",
+    "captureRate": 225,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/43/"
+  },
+  {
+    "id": 99,
+    "name": "kingler",
+    "captureRate": 60,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/43/"
+  },
+  {
+    "id": 100,
+    "name": "voltorb",
+    "captureRate": 190,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/44/"
+  },
+  {
+    "id": 101,
+    "name": "electrode",
+    "captureRate": 60,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/44/"
+  },
+  {
+    "id": 102,
+    "name": "exeggcute",
+    "captureRate": 90,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/45/"
+  },
+  {
+    "id": 103,
+    "name": "exeggutor",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/45/"
+  },
+  {
+    "id": 104,
+    "name": "cubone",
+    "captureRate": 190,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/46/"
+  },
+  {
+    "id": 105,
+    "name": "marowak",
+    "captureRate": 75,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/46/"
+  },
+  {
+    "id": 106,
+    "name": "hitmonlee",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/47/"
+  },
+  {
+    "id": 107,
+    "name": "hitmonchan",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/47/"
+  },
+  {
+    "id": 108,
+    "name": "lickitung",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/48/"
+  },
+  {
+    "id": 109,
+    "name": "koffing",
+    "captureRate": 190,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/49/"
+  },
+  {
+    "id": 110,
+    "name": "weezing",
+    "captureRate": 60,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/49/"
+  },
+  {
+    "id": 111,
+    "name": "rhyhorn",
+    "captureRate": 120,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/50/"
+  },
+  {
+    "id": 112,
+    "name": "rhydon",
+    "captureRate": 60,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/50/"
+  },
+  {
+    "id": 113,
+    "name": "chansey",
+    "captureRate": 30,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/51/"
+  },
+  {
+    "id": 114,
+    "name": "tangela",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/52/"
+  },
+  {
+    "id": 115,
+    "name": "kangaskhan",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/53/"
+  },
+  {
+    "id": 116,
+    "name": "horsea",
+    "captureRate": 225,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/54/"
+  },
+  {
+    "id": 117,
+    "name": "seadra",
+    "captureRate": 75,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/54/"
+  },
+  {
+    "id": 118,
+    "name": "goldeen",
+    "captureRate": 225,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/55/"
+  },
+  {
+    "id": 119,
+    "name": "seaking",
+    "captureRate": 60,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/55/"
+  },
+  {
+    "id": 120,
+    "name": "staryu",
+    "captureRate": 225,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/56/"
+  },
+  {
+    "id": 121,
+    "name": "starmie",
+    "captureRate": 60,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/56/"
+  },
+  {
+    "id": 122,
+    "name": "mr-mime",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/57/"
+  },
+  {
+    "id": 123,
+    "name": "scyther",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/58/"
+  },
+  {
+    "id": 124,
+    "name": "jynx",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/59/"
+  },
+  {
+    "id": 125,
+    "name": "electabuzz",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/60/"
+  },
+  {
+    "id": 126,
+    "name": "magmar",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/61/"
+  },
+  {
+    "id": 127,
+    "name": "pinsir",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/62/"
+  },
+  {
+    "id": 128,
+    "name": "tauros",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/63/"
+  },
+  {
+    "id": 129,
+    "name": "magikarp",
+    "captureRate": 255,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/64/"
+  },
+  {
+    "id": 130,
+    "name": "gyarados",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/64/"
+  },
+  {
+    "id": 131,
+    "name": "lapras",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/65/"
+  },
+  {
+    "id": 132,
+    "name": "ditto",
+    "captureRate": 35,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/66/"
+  },
+  {
+    "id": 133,
+    "name": "eevee",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/67/"
+  },
+  {
+    "id": 134,
+    "name": "vaporeon",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/67/"
+  },
+  {
+    "id": 135,
+    "name": "jolteon",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/67/"
+  },
+  {
+    "id": 136,
+    "name": "flareon",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/67/"
+  },
+  {
+    "id": 137,
+    "name": "porygon",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/68/"
+  },
+  {
+    "id": 138,
+    "name": "omanyte",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/69/"
+  },
+  {
+    "id": 139,
+    "name": "omastar",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/69/"
+  },
+  {
+    "id": 140,
+    "name": "kabuto",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/70/"
+  },
+  {
+    "id": 141,
+    "name": "kabutops",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/70/"
+  },
+  {
+    "id": 142,
+    "name": "aerodactyl",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/71/"
+  },
+  {
+    "id": 143,
+    "name": "snorlax",
+    "captureRate": 25,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/72/"
+  },
+  {
+    "id": 144,
+    "name": "articuno",
+    "captureRate": 3,
+    "isLegendary": true,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/73/"
+  },
+  {
+    "id": 145,
+    "name": "zapdos",
+    "captureRate": 3,
+    "isLegendary": true,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/74/"
+  },
+  {
+    "id": 146,
+    "name": "moltres",
+    "captureRate": 3,
+    "isLegendary": true,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/75/"
+  },
+  {
+    "id": 147,
+    "name": "dratini",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/76/"
+  },
+  {
+    "id": 148,
+    "name": "dragonair",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/76/"
+  },
+  {
+    "id": 149,
+    "name": "dragonite",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/76/"
+  },
+  {
+    "id": 150,
+    "name": "mewtwo",
+    "captureRate": 3,
+    "isLegendary": true,
+    "isMythical": false,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/77/"
+  },
+  {
+    "id": 151,
+    "name": "mew",
+    "captureRate": 45,
+    "isLegendary": false,
+    "isMythical": true,
+    "evolutionChainUrl": "https://pokeapi.co/api/v2/evolution-chain/78/"
+  }
+]

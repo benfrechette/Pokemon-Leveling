@@ -1,0 +1,396 @@
+[
+  {
+    "id": 1,
+    "name": "normal",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/1.png",
+    "standardSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield//1.png",
+    "damageRelations": {
+      "doubleDamageTo": [],
+      "halfDamageTo": [
+        "rock",
+        "steel"
+      ],
+      "noDamageTo": [
+        "ghost"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "fighting",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/2.png",
+    "standardSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield//2.png",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "normal",
+        "rock",
+        "steel",
+        "ice",
+        "dark"
+      ],
+      "halfDamageTo": [
+        "flying",
+        "poison",
+        "bug",
+        "psychic",
+        "fairy"
+      ],
+      "noDamageTo": [
+        "ghost"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "flying",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/3.png",
+    "standardSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield//3.png",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "fighting",
+        "bug",
+        "grass"
+      ],
+      "halfDamageTo": [
+        "rock",
+        "steel",
+        "electric"
+      ],
+      "noDamageTo": []
+    }
+  },
+  {
+    "id": 4,
+    "name": "poison",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/4.png",
+    "standardSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield//4.png",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "grass",
+        "fairy"
+      ],
+      "halfDamageTo": [
+        "poison",
+        "ground",
+        "rock",
+        "ghost"
+      ],
+      "noDamageTo": [
+        "steel"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "name": "ground",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/5.png",
+    "standardSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield//5.png",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "poison",
+        "rock",
+        "steel",
+        "fire",
+        "electric"
+      ],
+      "halfDamageTo": [
+        "bug",
+        "grass"
+      ],
+      "noDamageTo": [
+        "flying"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "name": "rock",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/6.png",
+    "standardSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield//6.png",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "flying",
+        "bug",
+        "fire",
+        "ice"
+      ],
+      "halfDamageTo": [
+        "fighting",
+        "ground",
+        "steel"
+      ],
+      "noDamageTo": []
+    }
+  },
+  {
+    "id": 7,
+    "name": "bug",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/7.png",
+    "standardSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield//7.png",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "grass",
+        "psychic",
+        "dark"
+      ],
+      "halfDamageTo": [
+        "fighting",
+        "flying",
+        "poison",
+        "ghost",
+        "steel",
+        "fire",
+        "fairy"
+      ],
+      "noDamageTo": []
+    }
+  },
+  {
+    "id": 8,
+    "name": "ghost",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/8.png",
+    "standardSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield//8.png",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "ghost",
+        "psychic"
+      ],
+      "halfDamageTo": [
+        "dark"
+      ],
+      "noDamageTo": [
+        "normal"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "name": "steel",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/9.png",
+    "standardSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield//9.png",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "rock",
+        "ice",
+        "fairy"
+      ],
+      "halfDamageTo": [
+        "steel",
+        "fire",
+        "water",
+        "electric"
+      ],
+      "noDamageTo": []
+    }
+  },
+  {
+    "id": 10,
+    "name": "fire",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/10.png",
+    "standardSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield//10.png",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "bug",
+        "steel",
+        "grass",
+        "ice"
+      ],
+      "halfDamageTo": [
+        "rock",
+        "fire",
+        "water",
+        "dragon"
+      ],
+      "noDamageTo": []
+    }
+  },
+  {
+    "id": 11,
+    "name": "water",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/11.png",
+    "standardSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield//11.png",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "ground",
+        "rock",
+        "fire"
+      ],
+      "halfDamageTo": [
+        "water",
+        "grass",
+        "dragon"
+      ],
+      "noDamageTo": []
+    }
+  },
+  {
+    "id": 12,
+    "name": "grass",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/12.png",
+    "standardSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield//12.png",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "ground",
+        "rock",
+        "water"
+      ],
+      "halfDamageTo": [
+        "flying",
+        "poison",
+        "bug",
+        "steel",
+        "fire",
+        "grass",
+        "dragon"
+      ],
+      "noDamageTo": []
+    }
+  },
+  {
+    "id": 13,
+    "name": "electric",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/13.png",
+    "standardSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield//13.png",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "flying",
+        "water"
+      ],
+      "halfDamageTo": [
+        "grass",
+        "electric",
+        "dragon"
+      ],
+      "noDamageTo": [
+        "ground"
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "name": "psychic",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/14.png",
+    "standardSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield//14.png",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "fighting",
+        "poison"
+      ],
+      "halfDamageTo": [
+        "steel",
+        "psychic"
+      ],
+      "noDamageTo": [
+        "dark"
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "name": "ice",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/15.png",
+    "standardSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield//15.png",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "flying",
+        "ground",
+        "grass",
+        "dragon"
+      ],
+      "halfDamageTo": [
+        "steel",
+        "fire",
+        "water",
+        "ice"
+      ],
+      "noDamageTo": []
+    }
+  },
+  {
+    "id": 16,
+    "name": "dragon",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/16.png",
+    "standardSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield//16.png",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "dragon"
+      ],
+      "halfDamageTo": [
+        "steel"
+      ],
+      "noDamageTo": [
+        "fairy"
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "name": "dark",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/17.png",
+    "standardSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield//17.png",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "ghost",
+        "psychic"
+      ],
+      "halfDamageTo": [
+        "fighting",
+        "dark",
+        "fairy"
+      ],
+      "noDamageTo": []
+    }
+  },
+  {
+    "id": 18,
+    "name": "fairy",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/18.png",
+    "standardSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield//18.png",
+    "damageRelations": {
+      "doubleDamageTo": [
+        "fighting",
+        "dragon",
+        "dark"
+      ],
+      "halfDamageTo": [
+        "poison",
+        "steel",
+        "fire"
+      ],
+      "noDamageTo": []
+    }
+  },
+  {
+    "id": 19,
+    "name": "stellar",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/19.png",
+    "standardSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield//19.png",
+    "damageRelations": {
+      "doubleDamageTo": [],
+      "halfDamageTo": [],
+      "noDamageTo": []
+    }
+  },
+  {
+    "id": 10001,
+    "name": "unknown",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/10001.png",
+    "standardSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield//10001.png",
+    "damageRelations": {
+      "doubleDamageTo": [],
+      "halfDamageTo": [],
+      "noDamageTo": []
+    }
+  },
+  {
+    "id": 10002,
+    "name": "shadow",
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield/10002.png",
+    "standardSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/types/generation-viii/sword-shield//10002.png",
+    "damageRelations": {
+      "doubleDamageTo": [],
+      "halfDamageTo": [],
+      "noDamageTo": []
+    }
+  }
+]

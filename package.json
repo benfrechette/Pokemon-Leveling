@@ -1,0 +1,8 @@
+{
+  "name": "fire-red-tracker",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "fetch:data": "node scripts/scrape-pokemon.js"
+  }
+}
