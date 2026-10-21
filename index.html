@@ -2,16 +2,249 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>FireRed Tracker</title>
-  <link rel="stylesheet" href="style.css">
-  <script src="app.js" defer></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pokémon FireRed Tracker</title>
+  <link rel="stylesheet" href="./style.css">
+  <script src="./app.js" defer></script>
 </head>
 <body>
+  <header class="site-header">
+    <a href="#" id="home-logo" class="home-logo" aria-label="Go to Home">
+      <span class="logo-ball">🔴</span>
+      <span class="logo-text">
+        <strong>Pokémon</strong>
+        <small>FIRERED TRACKER</small>
+      </span>
+    </a>
+
+    <nav id="navbar" class="navbar hidden" aria-label="Main navigation">
+      <button class="nav-button" data-page="home-page">Home</button>
+      <button class="nav-button" data-page="pokedex-page">Pokédex</button>
+      <button class="nav-button" data-page="encounters-page">Encounters</button>
+      <button class="nav-button" data-page="badges-page">Gym Badges</button>
+      <button class="nav-button" data-page="stats-page">Stats</button>
+      <button class="nav-button" data-page="entries-page">Entries</button>
+    </nav>
+  </header>
+
   <main>
-    <h1>Pokémon FireRed Tracker</h1>
-    <p id="progress">Loading Pokédex...</p>
-    <div id="pokedex"></div>
+    <!-- HOME -->
+    <section id="home-page" class="page active">
+      <h1 class="home-heading">Pokémon FireRed Tracker</h1>
+      <p class="home-intro">
+        Track your progress and explore the world of Kanto.
+      </p>
+
+      <div class="menu-grid">
+        <button class="menu-card pokedex-menu" data-page="pokedex-page">
+          <span class="menu-icon">📕</span>
+          <span class="menu-copy">
+            <strong>Pokédex</strong>
+            <span>Track the Pokémon you've caught.</span>
+          </span>
+          <span class="menu-arrow">›</span>
+        </button>
+
+        <button class="menu-card encounters-menu" data-page="encounters-page">
+          <span class="menu-icon">🌿</span>
+          <span class="menu-copy">
+            <strong>Encounters</strong>
+            <span>Track Pokémon by route and area.</span>
+          </span>
+          <span class="menu-arrow">›</span>
+        </button>
+
+        <button class="menu-card badges-menu" data-page="badges-page">
+          <span class="menu-icon">🏅</span>
+          <span class="menu-copy">
+            <strong>Gym Badges</strong>
+            <span>Track your gym progress.</span>
+          </span>
+          <span class="menu-arrow">›</span>
+        </button>
+
+        <button class="menu-card stats-menu" data-page="stats-page">
+          <span class="menu-icon">📊</span>
+          <span class="menu-copy">
+            <strong>Progress Stats</strong>
+            <span>View your adventure statistics.</span>
+          </span>
+          <span class="menu-arrow">›</span>
+        </button>
+
+        <button class="menu-card entries-menu" data-page="entries-page">
+          <span class="menu-icon">📖</span>
+          <span class="menu-copy">
+            <strong>Pokémon Entries</strong>
+            <span>Explore base stats, abilities, and moves.</span>
+          </span>
+          <span class="menu-arrow">›</span>
+        </button>
+      </div>
+
+      <div class="panel home-progress-panel">
+        <strong>Your Pokédex progress</strong>
+        <p id="home-progress">Loading Pokémon data...</p>
+        <div class="progress-track">
+          <div id="home-progress-fill" class="progress-fill"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- POKÉDEX -->
+    <section id="pokedex-page" class="page">
+      <h1>Pokédex</h1>
+      <p class="subtitle">Keep track of the Pokémon you've caught.</p>
+
+      <div class="panel">
+        <strong id="progress">Loading Pokémon data...</strong>
+        <div class="progress-track">
+          <div id="pokedex-progress-fill" class="progress-fill"></div>
+        </div>
+      </div>
+
+      <div class="pokedex-toolbar">
+        <input id="pokemon-search" type="search"
+          placeholder="Search Pokémon..." aria-label="Search Pokémon">
+
+        <select id="caught-filter" aria-label="Filter Pokémon">
+          <option value="all">All Pokémon</option>
+          <option value="caught">Caught</option>
+          <option value="uncaught">Not caught</option>
+        </select>
+      </div>
+
+      <div id="pokedex" aria-live="polite"></div>
+    </section>
+
+    <!-- ENCOUNTERS -->
+    <section id="encounters-page" class="page">
+      <h1>Encounters</h1>
+      <p class="subtitle">Track Pokémon you've encountered in each area.</p>
+
+      <div class="panel">
+        <h2>Encounter Tracker</h2>
+        <p>This section is ready for route-specific encounter tracking.</p>
+      </div>
+    </section>
+
+    <!-- GYM BADGES -->
+    <section id="badges-page" class="page">
+      <h1>Gym Badges</h1>
+      <p class="subtitle">Check off each badge as you earn it.</p>
+
+      <div class="badge-grid">
+        <label class="gym-badge">
+          <span class="badge-icon">🪨</span>
+          <span class="badge-name">Boulder Badge</span>
+          <span class="badge-location">Brock · Pewter City</span>
+          <span><input type="checkbox" class="badge-checkbox"> Earned</span>
+        </label>
+
+        <label class="gym-badge">
+          <span class="badge-icon">💧</span>
+          <span class="badge-name">Cascade Badge</span>
+          <span class="badge-location">Misty · Cerulean City</span>
+          <span><input type="checkbox" class="badge-checkbox"> Earned</span>
+        </label>
+
+        <label class="gym-badge">
+          <span class="badge-icon">⚡</span>
+          <span class="badge-name">Thunder Badge</span>
+          <span class="badge-location">Lt. Surge · Vermilion City</span>
+          <span><input type="checkbox" class="badge-checkbox"> Earned</span>
+        </label>
+
+        <label class="gym-badge">
+          <span class="badge-icon">🌈</span>
+          <span class="badge-name">Rainbow Badge</span>
+          <span class="badge-location">Erika · Celadon City</span>
+          <span><input type="checkbox" class="badge-checkbox"> Earned</span>
+        </label>
+
+        <label class="gym-badge">
+          <span class="badge-icon">🟣</span>
+          <span class="badge-name">Soul Badge</span>
+          <span class="badge-location">Koga · Fuchsia City</span>
+          <span><input type="checkbox" class="badge-checkbox"> Earned</span>
+        </label>
+
+        <label class="gym-badge">
+          <span class="badge-icon">🧠</span>
+          <span class="badge-name">Marsh Badge</span>
+          <span class="badge-location">Sabrina · Saffron City</span>
+          <span><input type="checkbox" class="badge-checkbox"> Earned</span>
+        </label>
+
+        <label class="gym-badge">
+          <span class="badge-icon">🔥</span>
+          <span class="badge-name">Volcano Badge</span>
+          <span class="badge-location">Blaine · Cinnabar Island</span>
+          <span><input type="checkbox" class="badge-checkbox"> Earned</span>
+        </label>
+
+        <label class="gym-badge">
+          <span class="badge-icon">🌍</span>
+          <span class="badge-name">Earth Badge</span>
+          <span class="badge-location">Giovanni · Viridian City</span>
+          <span><input type="checkbox" class="badge-checkbox"> Earned</span>
+        </label>
+      </div>
+    </section>
+
+    <!-- STATS -->
+    <section id="stats-page" class="page">
+      <h1>Progress Stats</h1>
+      <p class="subtitle">A summary of your FireRed adventure.</p>
+
+      <div class="stats-grid">
+        <div class="stat-card">
+          <span>Pokémon caught</span>
+          <strong id="stats-caught">0</strong>
+        </div>
+        <div class="stat-card">
+          <span>Pokémon remaining</span>
+          <strong id="stats-remaining">151</strong>
+        </div>
+        <div class="stat-card">
+          <span>Pokédex completion</span>
+          <strong id="stats-percent">0%</strong>
+        </div>
+        <div class="stat-card">
+          <span>Gym badges earned</span>
+          <strong id="stats-badges">0 / 8</strong>
+        </div>
+      </div>
+    </section>
+
+    <!-- ENTRIES -->
+    <section id="entries-page" class="page">
+      <h1>Pokémon Entries</h1>
+      <p class="subtitle">
+        Search for a Pokémon to explore its stats, abilities, and moves.
+      </p>
+
+      <div class="entry-search-wrap">
+        <label for="entry-search">Search Pokémon</label>
+        <input
+          type="search"
+          id="entry-search"
+          placeholder="Start typing a Pokémon name..."
+          autocomplete="off"
+          aria-autocomplete="list"
+          aria-controls="entry-suggestions"
+          aria-expanded="false"
+        >
+        <div id="entry-suggestions" class="entry-suggestions hidden"
+          role="listbox"></div>
+      </div>
+
+      <p id="entry-status" class="subtitle" aria-live="polite">
+        Start typing to find a Pokémon.
+      </p>
+
+      <div id="entry-details"></div>
+    </section>
   </main>
 </body>
 </html>
